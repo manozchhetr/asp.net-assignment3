@@ -1,1 +1,6 @@
-# asp.net-assignment3
+﻿namespace COMP2084Assignment3
+{
+    public class README
+    {
+    }
+}
